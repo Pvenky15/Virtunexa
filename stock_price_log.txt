@@ -1,0 +1,32 @@
+2025-02-18 19:45:42.169265 - AACT:
+Stock: AACT
+Current Price: $11.0450
+Open: $11.0600
+High: $11.0600
+Low: $11.0404
+Previous Close: $11.0500
+
+2025-02-18 19:46:21.415310 - AACT:
+Stock: AACT
+Current Price: $11.0450
+Open: $11.0600
+High: $11.0600
+Low: $11.0404
+Previous Close: $11.0500
+
+2025-02-18 19:46:25.248091 - AACT:
+Stock: AACT
+Current Price: $11.0450
+Open: $11.0600
+High: $11.0600
+Low: $11.0404
+Previous Close: $11.0500
+
+2025-02-18 19:46:55.649947 - AC:
+Stock: AC
+Current Price: $39.2200
+Open: $39.0700
+High: $40.5200
+Low: $37.5000
+Previous Close: $39.9400
+
