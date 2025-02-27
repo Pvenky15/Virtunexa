@@ -30,3 +30,19 @@ High: $40.5200
 Low: $37.5000
 Previous Close: $39.9400
 
+2025-02-18 21:17:17.924468 - AAM:
+Stock: AAM
+Current Price: $10.1600
+Open: $10.1800
+High: $10.1800
+Low: $10.1600
+Previous Close: $10.1700
+
+2025-02-27 14:27:50.263974 - AAM:
+Stock: AAM
+Current Price: $10.1900
+Open: $10.1900
+High: $10.1900
+Low: $10.1800
+Previous Close: $10.1900
+
